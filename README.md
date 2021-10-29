@@ -1,5 +1,5 @@
 # internet-speed-test
 
-# pip install rich
+pip install rich
 
-# pip install speedtest
+pip install speedtest
